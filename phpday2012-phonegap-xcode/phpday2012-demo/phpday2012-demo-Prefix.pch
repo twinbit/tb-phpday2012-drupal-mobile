@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'phpday2012-demo' target in the 'phpday2012-demo' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
