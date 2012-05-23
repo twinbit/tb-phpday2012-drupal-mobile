@@ -1,0 +1,12 @@
+name = Services Search
+description = A Services resource for searching content and users.
+package = Services
+core = 7.x
+dependencies[] = services
+
+
+; Information added by drush on 2012-05-02
+version = "unknown"
+project = "services_search"
+datestamp = "1335992400"
+
